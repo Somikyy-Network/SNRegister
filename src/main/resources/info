@@ -1,0 +1,25 @@
+This plugin is a Register plugin made by somikyy network.
+
+How this plugin works?
+
+This plugin is a register plugin that allows you to register an account on your server. This plugin is very simple to use and is very easy to use. This plugin is very useful for servers that are looking for a register plugin that is simple and easy to use.
+
+Commands
+
+/register <password> - This command allows you to register an account on your server.
+
+/login <password> - This command allows you to login to your account on your server.
+
+/forgotpassword <username> - This command allows you to reset your password on your account.
+
+Permissions
+
+register.use - This permission allows you to use the register plugin.
+
+register.register - This permission allows you to register an account on your server.
+
+register.login - This permission allows you to login to your account on your server.
+
+register.forgotpassword - This permission allows you to reset your password on your account.
+
+register.admin - This permission allows you to use all the commands in the register plugin.

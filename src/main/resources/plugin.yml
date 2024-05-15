@@ -1,0 +1,20 @@
+name: SNRegister
+version: '${version}'
+main: me.somikyy.snregister.SNRegister
+api-version: '1.20'
+
+commands:
+  register:
+    description: Register your account
+    usage: /register <password> <repeatPassword>
+    permission: snregister.register
+
+  login:
+    description: Login to your account
+    usage: /login <password>
+    permission: snregister.login
+
+  changepassword:
+    description: Change your password
+    usage: /changepassword <oldPassword> <newPassword> <repeatNewPassword>
+    permission: snregister.changepassword
